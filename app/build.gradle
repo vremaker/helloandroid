@@ -7,8 +7,8 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.remaker.hello"
-        minSdkVersion 22
+        applicationId "edu.washington.valerie.hello"
+        minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
